@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Compressor.DocCompressor" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAAAAEAAAQAAAACAAwAAAAAAAAAAA=</HashCode>
+      <FileName>DocCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Document" Collapsed="true">
+    <Position X="2.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAIAAAQAAAAQAIAAAIAAAhAAAAAAAA=</HashCode>
+      <FileName>Docs\Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.CompressOptions" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Mode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.scanner" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>scanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.utils" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAgQIAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>scanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Attributes.ImageCompressorInfo" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attribute\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Attributes.DocExtension" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attribute\Attributes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Docs.Docx" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Docs\Docx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Docs.Wps" Collapsed="true">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Docs\Wps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Docs.ZipPackage" Collapsed="true">
+    <Position X="1.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAAAAAAIAAAQAAAAAAAAAAAAgAAAAAIAABA=</HashCode>
+      <FileName>Docs\Zip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Events.ProgressReportor" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Events\ProgressReportor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Exceptions.ComponentNotFound" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ComponentNotFound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Exceptions.UnKnowException" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\UnKnowException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Exceptions.Unsupport" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\Unsupport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.Compressor" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAIAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\Compressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.ExternalCompressor" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAQAAAAAAEAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\Compressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.ImageCompressor" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAAAAAAAAAAAEAACQgAAACAIAAABAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\ImageCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.IMConvertCompressor" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAEAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\IMCCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.JPGCompressor" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\JPGCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.JPGECompressor" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\JPGCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.PNGCompressor" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\JPGCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.ImgCompress.OtherCompressor" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImgCompress\OtherCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Properties.Resources" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compressor.BinaryDocument">
+    <Position X="3.75" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryDocument.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Compressor.ImgCompress.CompressInfo" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAQAA=</HashCode>
+      <FileName>ImgCompress\ImageCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

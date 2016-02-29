@@ -1,0 +1,6 @@
+D:\My Documents\Visual Studio 2010\Projects\DocxCompressor\out\DocCompress.dll
+D:\My Documents\Visual Studio 2010\Projects\DocxCompressor\out\DocCompress.pdb
+D:\My Documents\Visual Studio 2010\Projects\DocxCompressor\compressor\obj\x86\Debug\Compressor.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\DocxCompressor\compressor\obj\x86\Debug\compressor.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\DocxCompressor\compressor\obj\x86\Debug\DocCompress.dll
+D:\My Documents\Visual Studio 2010\Projects\DocxCompressor\compressor\obj\x86\Debug\DocCompress.pdb
